@@ -18,22 +18,46 @@ These assessments were based of skills learned within the [Learning C](https://g
 <hr>
 
 ## Exam1
+> Booking <br />
+
+Calculate the total booking cost with the given tax rate.
+
 *100%*<br>
 
 ## Exam2
+> Blood readings <br />
+
+Take user input of UID and blood pressure reading and display results depending on readings.
+
 *100%*<br>
 
 ## Exam3
+> Marks analysis <br />
+
+Read the given file with marks & assign grade
+
 *100%*<br>
 
 ## Exam4
+> Friend Preferences<br />
+
+Lists order of friends with count of preferences
+
 *50%*<br>
 
 ## Exam5
+> Bias List<br />
+
+Lists order of friends with a weighting bias 
+
 *100%*<br>
+
 
 ## CW
 *91%*<br>
+> Stock Item Tracker <br />
+
+Car shop item tracker using OOP
 
 <br><hr>
 
